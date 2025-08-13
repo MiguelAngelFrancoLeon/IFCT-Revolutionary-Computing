@@ -118,6 +118,6 @@ IFCT represents the biggest breakthrough in computing architecture since the inv
 Miguel Ángel Franco León
 Creator of IFCT & Independent Researcher
 
-📧 Email: miguelangelfrancoleon@example.com
+📧 Email: miguelfranco@mfsu-model.0rg
 💼 LinkedIn: Miguel Ángel Franco León
 🌐 Research: Fractal Computing Architecture
